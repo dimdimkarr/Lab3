@@ -20,8 +20,8 @@
 5. Конец
 
 ### Блок-схема
+<img width="175" height="682" alt="homework3" src="https://github.com/user-attachments/assets/a5386a57-e563-4dee-ad8a-daecaf56bf0e" />
 
-[блок-схема, созданная в draw.io](ссылка_на_вашу_блок-схему)
 
 ## 2. Реализация программы
 
